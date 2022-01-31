@@ -1,16 +1,16 @@
 {
-    "broadArea": {
-        "name": "Electrical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
-    },
-    "lab": "Virtual Substation Automation Lab",
-    "lab_display_name": "Substation Automation Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "NITS",
-    "baseUrl": "sa-nitk.vlabs.ac.in",
-    "introduction": "Welcome to Substation Automation Lab",
-    "experiments": [
+  "broadArea": {
+    "name": "Electrical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+  },
+  "lab": "Virtual Substation Automation Lab",
+  "lab_display_name": "Substation Automation Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "NITS",
+  "baseUrl": "sa-nitk.vlabs.ac.in",
+  "introduction": "Welcome to Substation Automation Lab",
+  "experiments": [
     {
       "name": "Circuit Breaker Status Indication from field input",
       "short-name": "circuit-breaker-status",
@@ -87,15 +87,20 @@
       "repo": "https://github.com/virtual-labs/exp-autoreclosure-sectionalizer-operation-nitk",
       "tag": "v0.0.0",
       "deploy": true
-    }    
-    ],
-    "targetAudience": {
-        "UG": ["Target group will be updated soon"],
-        "PG": ["Target group will be updated soon"]
-    },
-    "objective": "A substation is a part of an electrical generation, transmission and distribution system. The assembly of apparatus used to change some characteristics (e.g. voltage, frequency, p.f., A.C. to D.C. etc.) of an electrical supply is called a substation.</br></br>Some of the main operations of substations are:</br></br>To receive energy transmitted at high voltage from the generating stations.</br>To decrease the voltage to a value appropriate for local distribution.</br>To provide switching facilities.",
-    "courseAlignment": {
-        "description": "",
-        "universities": ["The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."]
     }
+  ],
+  "targetAudience": {
+    "UG": ["Target group will be updated soon"],
+    "PG": ["Target group will be updated soon"]
+  },
+  "objective": "A substation is a part of an electrical generation, transmission and distribution system. The assembly of apparatus used to change some characteristics (e.g. voltage, frequency, p.f., A.C. to D.C. etc.) of an electrical supply is called a substation.</br></br>Some of the main operations of substations are:</br></br>To receive energy transmitted at high voltage from the generating stations.</br>To decrease the voltage to a value appropriate for local distribution.</br>To provide switching facilities.",
+  "courseAlignment": {
+    "description": "",
+    "universities": [
+      "The courses in which one can come across the theory connected to the experiments in this lab will be updated soon."
+    ]
+  },
+  "exp_name": "Autoreclosure And Sectionalizer Operation",
+  "exp_short_name": "autoreclosure-sectionalizer-operation",
+  "version": "v0.1.0"
 }
