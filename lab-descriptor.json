@@ -12,79 +12,79 @@
     "introduction": "Welcome to Substation Automation Lab",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Circuit Breaker Status Indication from field input",
+      "short-name": "circuit-breaker-status",
+      "repo": "https://github.com/virtual-labs/exp-circuit-breaker-status-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Control of Group Operated Switches (GOS) from workstation",
+      "short-name": "group-operated-switches",
+      "repo": "https://github.com/virtual-labs/exp-group-operated-switches-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Monitoring Feeder parameter from workstation",
+      "short-name": "monitoring-feeder-parameter",
+      "repo": "https://github.com/virtual-labs/exp-monitoring-feeder-parameter-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fault scenario simulation in a feeder",
+      "short-name": "simulation-feeder",
+      "repo": "https://github.com/virtual-labs/exp-simulation-feeder-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Fault scenario simulation in a Transformer /Bus",
+      "short-name": "simulation-transformer",
+      "repo": "https://github.com/virtual-labs/exp-simulation-transformer-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Load Transfer from one Feeder to other during Transformer Maintenance",
+      "short-name": "load-transfer",
+      "repo": "https://github.com/virtual-labs/exp-load-transfer-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Control Of Bus Voltages Through Onload Tap Changes",
+      "short-name": "onload-tap-changes",
+      "repo": "https://github.com/virtual-labs/exp-onload-tap-changes-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Development of 11KV/433 volts substation automation scheme using PLC for normal load operation",
+      "short-name": "plc-normal-load-operation",
+      "repo": "https://github.com/virtual-labs/exp-plc-normal-load-operation-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Development of 11KV/433 volts substation automation scheme using PLC for timer ON/OFF load control",
+      "short-name": "timer-load-control",
+      "repo": "https://github.com/virtual-labs/exp-timer-load-control-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
+      "short-name": "cyclic-load-control",
+      "repo": "https://github.com/virtual-labs/exp-cyclic-load-control-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Autoreclosure And Sectionalizer Operation",
+      "short-name": "autoreclosure-sectionalizer-operation",
+      "repo": "https://github.com/virtual-labs/exp-autoreclosure-sectionalizer-operation-nitk",
       "tag": "v0.0.0",
       "deploy": true
     }    
