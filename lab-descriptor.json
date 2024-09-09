@@ -23,7 +23,7 @@
       "name": "Control of Group Operated Switches (GOS) from workstation",
       "short-name": "group-operated-switches",
       "repo": "https://github.com/virtual-labs/exp-group-operated-switches-nitk",
-      "tag": "v0.0.1",
+      "tag": "v0.0.2",
       "deploy": true
     },
     {
@@ -65,21 +65,21 @@
       "name": "Development of 11KV/433 volts substation automation scheme using PLC for normal load operation",
       "short-name": "plc-normal-load-operation",
       "repo": "https://github.com/virtual-labs/exp-plc-normal-load-operation-nitk",
-      "tag": "v0.0.1",
+      "tag": "v0.0.3",
       "deploy": true
     },
     {
       "name": "Development of 11KV/433 volts substation automation scheme using PLC for timer ON/OFF load control",
       "short-name": "timer-load-control",
       "repo": "https://github.com/virtual-labs/exp-timer-load-control-nitk",
-      "tag": "v0.0.1",
+      "tag": "v0.0.2",
       "deploy": true
     },
     {
       "name": "Development of 11KV/433 volts substation automation scheme using PLC for cyclic ON/OFF load control",
       "short-name": "cyclic-load-control",
       "repo": "https://github.com/virtual-labs/exp-cyclic-load-control-nitk",
-      "tag": "v0.0.1",
+      "tag": "v0.0.3",
       "deploy": true
     },
     {
@@ -91,8 +91,12 @@
     }
   ],
   "targetAudience": {
-    "UG": ["Target group will be updated soon"],
-    "PG": ["Target group will be updated soon"]
+    "UG": [
+      "Target group will be updated soon"
+    ],
+    "PG": [
+      "Target group will be updated soon"
+    ]
   },
   "objective": "A substation is a part of an electrical generation, transmission and distribution system. The assembly of apparatus used to change some characteristics (e.g. voltage, frequency, p.f., A.C. to D.C. etc.) of an electrical supply is called a substation.</br></br>Some of the main operations of substations are:</br></br>To receive energy transmitted at high voltage from the generating stations.</br>To decrease the voltage to a value appropriate for local distribution.</br>To provide switching facilities.",
   "courseAlignment": {
